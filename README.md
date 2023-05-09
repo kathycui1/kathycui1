@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kathy Cui! Thanks for visiting my Github account.
-- 🌱 I’m currently a 3A Honours Mathematics (Information Technology Management) student at the University of Waterloo.
+- 🌱 I’m currently a 3B Honours Mathematics (Information Technology Management) student at the University of Waterloo.
 - 👀 I’m continuously growing my programming skills and always open to learning!
-- 💞️ Aside from my love for coding, I love to be outdoors, play tetris and the piano, and watch comedy films.
+- 💞 Aside from school and work, I love to go skiing, play tetris, and learn more songs on the piano.
 
 <!---
 kathycui1/kathycui1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
