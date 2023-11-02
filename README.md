@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kathy Cui! Thanks for visiting my Github account.
-- 🌱 I’m currently a 3B Honours Mathematics (Information Technology Management) student at the University of Waterloo.
+- 🌱 I’m currently a 3B Honours Mathematics (IT Management) student at the University of Waterloo.
 - 👀 I’m continuously growing my programming skills and always open to learning!
 - 💞 Aside from school and work, I love to go skiing, play tetris, and learn more songs on the piano.
 
