@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Kathy! Thanks for visiting my Github account
-- 🌱 I’m currently a 4A Honours Mathematics (IT Management) student at the University of Waterloo
-- 👀 Feel free to contact me at kathy.cui@uwaterloo.ca
+- 👋 Hi, I’m Kathy!
+- 🏫 I’m currently a 4A Honours Mathematics (IT Management) student at the University of Waterloo
+- 📧 Feel free to contact me at kathy.cui@uwaterloo.ca
