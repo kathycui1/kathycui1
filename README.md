@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Kathy!
-- 🏫 I’m currently a 4B Honours Mathematics (IT Management) student at the University of Waterloo
-- 📧 Feel free to contact me at kathy.cui@uwaterloo.ca
+👋 Hi, I’m Kathy! 
+📧 Feel free to contact me at kathy.cui@uwaterloo.ca
